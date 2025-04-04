@@ -4,7 +4,7 @@
 🌱 J’apprends chaque jour : machine learning, déploiement de modèles, Python, Docker, Flask...  
 👀 Ce qui m’anime : comprendre, tester, rater parfois, mais surtout progresser.  
 🤝 Ouvert aux collaborations sur des projets autour de l’impact social, de l’environnement ou de l’éducation.  
-📫 Tu peux me contacter ici : [LinkedIn](https://www.linkedin.com/in/afdel-desmond-kombou/) ou par mail à afdelkombou@gmail.com  
+📫 Tu peux me contacter ici : [LinkedIn](https://www.linkedin.com/in/ad-j2017/) ou par mail à kafdeldesmond@gmail.com  
 ⚡ Fun fact : entre deux modèles, tu me trouveras en train de lire, voyager ou jouer au basket 🏀  
 🚀 Objectif : devenir un data scientist capable de créer des solutions simples, utiles et intelligentes pour le monde réel.
 
